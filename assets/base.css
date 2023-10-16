@@ -3519,20 +3519,20 @@ details-disclosure > details {
     color: var(--jdgm-primary-color);
   }
   .jdgm-row-stars{
-    color: red;
+    color: var(--jdgm-primary-color);
     
   }
   .jdgm-rev-widg__summary{
-    color: red;
+    color: var(--jdgm-primary-color);
     
   }
 
   .jdgm-star jdgm--on{
-    color: red;
+    color: var(--jdgm-primary-color);
   }
 
   .jdgm-rev-widg .jdgm-star{
-   color: red;
+   color: var(--jdgm-primary-color);
   }
 
   
