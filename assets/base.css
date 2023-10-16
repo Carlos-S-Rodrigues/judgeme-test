@@ -3532,7 +3532,7 @@ details-disclosure > details {
   }
 
   .jdgm-rev-widg .jdgm-star{
-   color: var(--jdgm-primary-color);
+   color: var(--jdgm-primary-color) !important;
   }
 
   
