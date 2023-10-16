@@ -3526,6 +3526,10 @@ details-disclosure > details {
   .jdgm-star jdgm--on{
     color: red;
   }
+
+  .jdgm-rev-widg .jdgm-star{
+   color: red;
+  }
   
 }
 
