@@ -3511,31 +3511,7 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 
-  :root{
-    --jdgm-primary-color: red;
-  }
 
-  .jdgm-rev-widg__title{
-    color: var(--jdgm-primary-color) !important;
-  }
-  .jdgm-row-stars{
-    color: var(--jdgm-primary-color);
-    
-  }
-  .jdgm-rev-widg__summary{
-    color: var(--jdgm-primary-color);
-    
-  }
-
-  .jdgm-star jdgm--on{
-    color: var(--jdgm-primary-color);
-  }
-
-  .jdgm-rev-widg .jdgm-star{
-   color: var(--jdgm-primary-color) !important;
-  }
-
-  
   
 }
 
