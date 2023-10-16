@@ -3516,7 +3516,7 @@ details-disclosure > details {
   }
 
   .jdgm-rev-widg__title{
-    color: var(--jdgm-primary-color);
+    color: var(--jdgm-primary-color) !important;
   }
   .jdgm-row-stars{
     color: var(--jdgm-primary-color);
