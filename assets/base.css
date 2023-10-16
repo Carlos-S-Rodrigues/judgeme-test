@@ -3515,6 +3515,7 @@ details-disclosure > details {
 
   .jdgm-write-rev-link close-form-btn{
       background-color: var(--jdgm-primary-color);
+      border-radius: 8px;
   }
   .jdgm-histogram__bar-content{
     background-color: var(--jdgm-start-color)!important;
