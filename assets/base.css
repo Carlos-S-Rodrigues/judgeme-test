@@ -3513,7 +3513,7 @@ details-disclosure > details {
   }
 
   .jdgm-write-rev-link close-form-btn{
-      background-color: black;
+      background-color: var(--jdgm-primary-color);
   }
   
 }
