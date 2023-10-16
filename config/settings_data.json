@@ -396,5 +396,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "a.jdgm-write-rev-link{background-color: black; }"
+    ]
   }
 }
