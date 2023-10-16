@@ -399,7 +399,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "a.jdgm-write-rev-link{background-color: black; }"
+      "a.jdgm-write-rev-link {background-color: black; border-radius: 30px;}"
     ]
   }
 }
