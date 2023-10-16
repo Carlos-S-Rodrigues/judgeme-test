@@ -3517,7 +3517,7 @@ details-disclosure > details {
       background-color: var(--jdgm-primary-color);
   }
   .jdgm-histogram__bar-content{
-    background-color: var(--jdgm-start-color);
+    background-color: var(--jdgm-start-color)!important;
   }
 }
 
