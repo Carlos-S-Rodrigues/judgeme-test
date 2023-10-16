@@ -3,7 +3,8 @@
   --alpha-button-border: 1;
   --alpha-link: 0.85;
   --alpha-badge-border: 0.1;
-  --jdgm-primary-color: black;
+  --jdgm-primary-color: #000000;
+  --jdgm-star-color:#edd607;
 }
 
 .product-card-wrapper .card,
@@ -3515,7 +3516,9 @@ details-disclosure > details {
   .jdgm-write-rev-link close-form-btn{
       background-color: var(--jdgm-primary-color);
   }
-  
+  .jdgm-histogram__bar-content{
+    background-color: var(--start-color)
+  }
 }
 
 
