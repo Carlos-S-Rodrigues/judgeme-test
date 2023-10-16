@@ -3517,6 +3517,10 @@ details-disclosure > details {
       background-color: var(--jdgm-primary-color);
       border-radius: 12px;
   }
+
+  .jdgm-widget-actions-wrapper{
+    border-radius: 12px;
+  }
   .jdgm-histogram__bar-content{
     background-color: var(--jdgm-start-color)!important;
   }
